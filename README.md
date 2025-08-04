@@ -23,7 +23,6 @@ src/
 ├── App.tsx                       # Main application component
 ├── main.tsx                      # Entry point
 └── index.css                     # Global styles
-```
 
 ### 🛠 Configuration Files
 
